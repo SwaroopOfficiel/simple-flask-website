@@ -14,7 +14,7 @@ Set FLASK_APP=app.py
 
 Flask run
 
-you get the url http://127.0.0.1:5000/ and made modification 
+you get the  and made modification 
 
 if have any modification please clone it 
 
