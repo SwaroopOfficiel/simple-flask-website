@@ -14,7 +14,7 @@ Set FLASK_APP=app.py
 
 Flask run
 
-you get the  and made modification 
+you get the url=""  and made modification 
 
 if have any modification please clone it 
 
